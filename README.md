@@ -22,7 +22,8 @@
 设置train.py中is_train参数为True。
 
 ### 权重文件
-权重文件可以从百度云中下载：https://pan.baidu.com/s/1VfsQ-XzXNHcDuAouyPBqog，提取码zo6w。测试图片与评估指标时分别将相应权重文件放在weights与checkpoints\bdd100k下，并修改测试代码中的load_weights参数使工程可以正确调用权重文件。（HybridNets-d3未采用预训练权重进行训练）。
+权重文件可以从百度云中下载：https://pan.baidu.com/s/1VfsQ-XzXNHcDuAouyPBqog
+，提取码zo6w。测试图片与评估指标时分别将相应权重文件放在weights与checkpoints\bdd100k下，并修改测试代码中的load_weights参数使工程可以正确调用权重文件。（HybridNets-d3未采用预训练权重进行训练）。
 
 ## 参考：
 本项目代码参考自：https://github.com/datvuthanh/HybridNets
