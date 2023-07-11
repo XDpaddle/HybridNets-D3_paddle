@@ -2,8 +2,6 @@
 
 **Hybridnets** Hybridnets是一个用于多任务的末端感知网络。我们的工作重点是交通目标检测、可行驶区域分割和车道检测。网络由backbone，neck与两个子检测head组成。
 
-PySOT支持以下项目: [SiamRPN](http://openaccess.thecvf.com/content_cvpr_2018/html/Li_High_Performance_Visual_CVPR_2018_paper.html), [DaSiamRPN](https://arxiv.org/abs/1808.06048), [SiamRPN++](https://arxiv.org/abs/1812.11703), 和 [SiamMask](https://arxiv.org/abs/1812.05050).
-
 
 ### 安装
 
